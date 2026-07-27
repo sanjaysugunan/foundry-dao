@@ -91,4 +91,4 @@ Issues and pull requests are welcome — in particular around exploring alternat
 
 ## License
 
-No license file is currently included in this repository. Add one (e.g. MIT) if you intend for others to reuse this code.
+MIT
